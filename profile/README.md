@@ -7,7 +7,7 @@
 5. [Creating a Study Area Shapefile](https://github.com/ECOSTRESS-Tutorials/ECOSTRESS-Getting-Started/blob/main/05-Creating_a_Study_Area_Shapefile.md)
 6. [Downloading from AppEEARS](https://github.com/ECOSTRESS-Tutorials/ECOSTRESS-Getting-Started/blob/main/06-Downloading_from_AppEEARS.md)
 7. [Downloading from Earthdata Search](https://github.com/ECOSTRESS-Tutorials/ECOSTRESS-Getting-Started/blob/main/07-Downloading_from_Earthdata_Search.md)
-8. [Downloading Visual Studio Code](https://github.com/ECOSTRESS-Tutorials/ECOSTRESS-Getting-Started/blob/main/08-Downloading_Visual_Studio_Code.docx)
+8. [Downloading Visual Studio Code](https://github.com/ECOSTRESS-Tutorials/ECOSTRESS-Getting-Started/blob/main/08-Downloading_Visual_Studio_Code.md)
 9. [Filtering for Good Images](https://github.com/ECOSTRESS-Tutorials/ECOSTRESS-Filtering-for-Good-Images)
 10. [Applying a Single Cloud Mask](https://github.com/ECOSTRESS-Tutorials/ECOSTRESS-Single-Cloud-Mask)
 11. [Batch Cloud Masking](https://github.com/ECOSTRESS-Tutorials/ECOSTRESS-Batch-Cloud-Mask)
