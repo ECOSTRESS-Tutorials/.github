@@ -14,4 +14,4 @@
 12. [Applying Quality Flags](https://github.com/ECOSTRESS-Tutorials/ECOSTRESS-QC-Flag)
 13. [Creating a Composite Image](https://github.com/ECOSTRESS-Tutorials/ECOSTRESS-Composite)
 14. [Creating Monthly Composites](https://github.com/ECOSTRESS-Tutorials/ECOSTRESS-Monthly-Composites)
-15. [Visualizing, Creating, and Exporting a Layout in QGIS](15-Visualizing_Creating_and_Exporting_a_Layout_in_QGIS.md)
+15. [Visualizing, Creating, and Exporting a Layout in QGIS](https://github.com/ECOSTRESS-Tutorials/ECOSTRESS-Getting-Started/blob/main/15-Visualizing_Creating_and_Exporting_a_Layout_in_QGIS.md)
